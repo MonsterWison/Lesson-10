@@ -1,0 +1,16 @@
+1 - Python之父 : Guido van Rossum (吉多·范羅蘇姆)
+2 - Python那年發佈 : 1989 (1991發佈) (1989年構思)
+3 - Python是什麼Language : interpret language(直譯語言)
+4 - 那些語言是interpret language : Python, Ruby, PHP, JavaScript, Perl, Lua, Smalltalk, Erlang, Haskell, Lisp, Scheme, Clojure, ClojureScript, Racket, R, Julia, Elixir, F#
+5 - 那些語言是compile language (編譯器) : C, C++, Java, C#, Go, Rust, Swift, Kotlin, Scala, Haskell, F#, D, Nim, Zig, OCaml, ReasonML, Elm, Elixir, Erlang, Forth, Forth200x, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2012, Factor, Forth2
+#run完沒有exe file的屬interpret language, run完有exe file的屬compile language
+6 - function : 函數
+7 - loop : 迴圈
+8 - if : 條件判斷
+9 - while loop : 迴圈
+10 - return : 回傳
+11 - break : 跳出迴圈
+12 - exit : 退出程式
+13 - range() : 範圍 #[1:8:1] : 1到7, 1為步長
+14 - 什麼是truth value : Statement 
+15 - 什麼是condition expression : 條件表達式 (結果是True or False)
