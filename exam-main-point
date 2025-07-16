@@ -14,3 +14,4 @@
 13 - range() : 範圍 #[1:8:1] : 1到7, 1為步長
 14 - 什麼是truth value : Statement 
 15 - 什麼是condition expression : 條件表達式 (結果是True or False)
+16 - refer to exam.py

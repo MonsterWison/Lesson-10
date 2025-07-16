@@ -1,4 +1,4 @@
-#承接Lesson-9，加入input function
+#承接Lesson-9，加入input function 及input 空白為error
 print("Lesson-10")
 print("version 1-1")
 
